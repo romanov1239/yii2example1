@@ -13,7 +13,9 @@ $this->title = Yii::$app->name;
             <div class="col-md-12">
                 <div class="bg-text">
                     <h3>Classic BLOG Design</h3>
-                    <a> </a>
+                    <h4><a href="https://www.youtube.com/playlist?list=PLD-piGJ3Dtl04HdGz2nMMgdK0eik8VvR2" style="color: white;">Сайт создан для обучения на движке yii2 по видео https://www.youtube.com/playlist?list=PLD-piGJ3Dtl04HdGz2nMMgdK0eik8VvR2</a></h4>
+                    <h4><a href="https://github.com/romanov1239/yii2example1.git" style="color: white;">Ссылка на мой гит репозиторий проекта https://github.com/romanov1239/yii2example1.git</a></h4>
+
 
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla </p>
                 </div>
